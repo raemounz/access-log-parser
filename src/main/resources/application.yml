@@ -1,7 +1,7 @@
 spring.datasource.driverClassName: "com.mysql.jdbc.Driver"
 spring.datasource.url: "jdbc:mysql://localhost:3306/test?useSSL=false"
 spring.datasource.username: "root"
-spring.datasource.password: "password"
+spring.datasource.password: "root"
 requestDate.format: "yyyy-MM-dd HH:mm:ss.SSS"
 queryDate.format: "%Y-%d-%m.%T"
 accesslog: "./access.log"
