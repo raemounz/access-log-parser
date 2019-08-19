@@ -1,4 +1,4 @@
-# Parser (Spring Batch)
+# Access Log Parser (Spring Batch)
 
 This is a parser for web access log file.  It uses spring-batch for importing the access log to mysql.
 
@@ -8,7 +8,7 @@ Run `mvn clean package` to build the project. The build artifacts will be stored
 
 ## Setup
 
-This project uses mysql as data store.  Run `resources/createSchema.sql` to create the `test` database.
+This project uses mysql as data store.  Run `resources/createSchema.sql` to create the `parser_db` database.
 
 ## Run
 

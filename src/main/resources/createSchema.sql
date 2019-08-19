@@ -1,1 +1,1 @@
-CREATE SCHEMA `test`;
+CREATE SCHEMA `parser_db`;
